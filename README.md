@@ -39,19 +39,10 @@ Ensure you have the following installed on your system:
 ## Usage
 1. Enter a task in the input field.
 2. Click the `Add` button to add the task.
-3. Click on a task to mark it as completed (strikethrough effect).
-4. Click the `Delete` button to remove a task.
+3. Click the `Delete` button to remove a task.
 
 ## Screenshots
 ![ToDo List Screenshot](images/screenshot.png)
 
-## Contributing
-Feel free to fork this project and submit pull requests if you'd like to contribute or enhance the application.
 
-## License
-This project is licensed under the MIT License.
-
----
-
-Enjoy using the ToDo List App!
 
