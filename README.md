@@ -43,7 +43,7 @@ Ensure you have the following installed on your system:
 4. Click the `Delete` button to remove a task.
 
 ## Screenshots
-![ToDo List Screenshot](screenshot.png)
+![ToDo List Screenshot](images/screenshot.png)
 
 ## Contributing
 Feel free to fork this project and submit pull requests if you'd like to contribute or enhance the application.
